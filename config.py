@@ -1,0 +1,10 @@
+# config.py
+PREFIX = "t!"
+ETKINLIK_KANAL_ID = 860155543872208897  # Etkinlik kanalının ID'si
+DAVET_KANALI_ID = 860155467044749362     # davet kontrolü için kanal ID'si
+UYARI_KANALI_ID = 860151168571539497  # Uyarı kanalının ID'si
+TOPLANTI_KANALI_ID = 860152305491771442  # Toplantı duyuruları için kanal ID'si    
+TOPLANTI_SES_KANALI_ID = 899715090369097740 # Örneğin: 123456789012345678
+BASVURU_KANALI_ID =   860152305491771442      # Başvuru kanalı ID'si
+YONETIM_ROL_ID = 860151634695684159       # Yönetim rolünün ID'si
+HOSGELDIN_KANALI_ID = 860168157892182026 # Hoş geldin mesajı için kanal ID'si
