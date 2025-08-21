@@ -95,7 +95,7 @@ class Cekilis(commands.Cog):
 
         katilimcilar = []
         for reaction in guncel_mesaj.reactions:
-            if str(reaction.emoji) == '�':
+            if str(reaction.emoji) == '🎉':
                 katilimcilar = [user async for user in reaction.users() if not user.bot]
                 break
 
